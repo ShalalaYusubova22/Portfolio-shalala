@@ -43,12 +43,12 @@
 
  <div class="port-item">
    <div class="port-img">
-   <img src="@/assets/images/portfoliobg.jpg" alt="vueweather">
+   <img src="@/assets/images/cinephile.png" alt="vueweather">
    </div>
    <div class="port-info">
    <h4>4.CinepHile</h4>
    <p>A unique movie site for movie lovers and watching latest movie in the world.</p>
-   <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+   <a target="_blank" href="https://cinephile-blue.vercel.app/#/"><i class="fa-solid fa-up-right-from-square"></i></a>
    </div>
    </div>
 
