@@ -8,12 +8,12 @@
    
    <div class="port-item">
    <div class="port-img">
-   <img src="@/assets/images/portfoliobg.jpg" alt="vueweather">
+   <img src="@/assets/images/vue_weeather.png" alt="vueweather">
    </div>
    <div class="port-info">
    <h4>1.VueWeather</h4>
    <p>A unique site that works to get weather information</p>
-   <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+   <a target="_blank" href="https://vue-weather-bice.vercel.app/"><i class="fa-solid fa-up-right-from-square"></i></a>
    </div>
    </div>
 
