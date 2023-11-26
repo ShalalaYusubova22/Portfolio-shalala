@@ -20,7 +20,7 @@
 </template>
 
 <script setup>
-import photo from '@/assets/images/hero.jpg'
+import photo from '@/assets/images/hero.png'
 const heroStyles = {
   height: '100vh',
   width: '100%',
@@ -32,7 +32,7 @@ const heroStyles = {
   justifyContent: 'center',
   padding: '70px',
   position: 'relative',
-  // box-shadow:'rgba (0, 0, 0 , 20%)'
+
 };
 
 import { Typed } from "@duskmoon/vue3-typed-js";
