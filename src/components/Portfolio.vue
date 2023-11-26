@@ -32,12 +32,12 @@
 
     <div class="port-item">
    <div class="port-img">
-   <img src="@/assets/images/portfoliobg.jpg" alt="vueweather">
+   <img src="@/assets/images/todolist.png" alt="vueweather">
    </div>
    <div class="port-info">
    <h4>3.TodoList</h4>
    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, totam.</p>
-   <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+   <a target="_blank" href="https://todolist-eight-bay.vercel.app/"><i class="fa-solid fa-up-right-from-square"></i></a>
    </div>
    </div>
 
