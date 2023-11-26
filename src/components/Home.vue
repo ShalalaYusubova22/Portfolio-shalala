@@ -26,12 +26,12 @@ const heroStyles = {
   width: '100%',
   backgroundImage: `url(${photo})`,
   backgroundSize: 'cover',
-  backgroundAttachment: 'fixed',
   display: 'flex',
   flexDirection: 'column',
   justifyContent: 'center',
   padding: '70px',
   position: 'relative',
+  
 
 };
 
@@ -45,6 +45,14 @@ const options = {
 
 </script>
 
-<style lang="scss" scoped>
+<style  scoped>
+#home{
 
+background-attachment:fixed; 
+-o-background-size:cover; 
+-moz-background-size:cover; 
+-webkit-background-size:cover; 
+background-size:100% 100%; 
+background-repeat:no-repeat;
+}
 </style>
