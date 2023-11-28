@@ -204,10 +204,10 @@ main {
   }
 }
 @media only screen and (max-width: 670px) {
-  #home {
+  /* #home {
     padding: 30px;
     background-position: right;
-  }
+  } */
   #home .home-row h1 {
     font-size: 35px;
     letter-spacing: 0;
