@@ -31,20 +31,6 @@
 <script setup>
 import { Typed } from "@duskmoon/vue3-typed-js";
 
-import photo from '@/assets/images/hero.jpg'
-const heroStyles = {
-  height: '100vh',
-  width: '100%',
-  backgroundImage: `url(${photo})`,
-  backgroundSize: 'cover',
-  backgroundAttachment: 'fixed',
-  display: 'flex',
-  flexDirection: 'column',
-  justifyContent: 'center',
-  padding: '70px',
-  position: 'relative',
-  // box-shadow:'rgba (0, 0, 0 , 20%)'
-};
 
 
 

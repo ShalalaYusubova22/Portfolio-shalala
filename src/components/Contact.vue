@@ -4,8 +4,7 @@
     <h1 class="sub-heading">Contact</h1>
     <div class="divider"></div>
     <p class="sub-para">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione odio
-      reprehenderit hic?
+     You can contact with me by Phone & by sending mail...
     </p>
 
     <div class="contact-row">

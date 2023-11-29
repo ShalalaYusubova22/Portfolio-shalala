@@ -4,10 +4,7 @@
     <h1 class="sub-heading">About Me</h1>
     <div class="divider"></div>
     <p class="sub-para">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti
-      nesciunt, hic et deleniti sed obcaecati laboriosam assumenda! Quis rem,
-      quos aspernatur vitae voluptatum perspiciatis, sint alias nemo quidem quia
-      quam!
+       HI, I am Shalala Yusubova.I am interested creating web development.Code the frontend of a website;i,e. the part that the users sees and interacts with.Bringing the web designer's designs to kife using HTML,JavaScript, and CSS.Vite js, Vue js,REST API.I enshure responsive design.
     </p>
 
     <div class="about-col">
@@ -18,8 +15,7 @@
       <div class="info-col">
         <h2>Front-End Developer!</h2>
         <p class="sub-para">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas,
-          ullam!
+          Creating web development With VUE3 Js, Vite Js..........
         </p>
         <div class="icon-list-col">
           <div class="icon-list">
@@ -71,7 +67,7 @@
   <section id="fact">
   <h1 class="sub-heading">Facts</h1>
   <div class="divider"></div>
-  <p class="sub-para">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos vel aliquid ab facilis pariatur nesciunt, sed alias rem eveniet assumenda!</p>
+  <p class="sub-para">Design and Create web sites.....</p>
 
   <div class="fact-row">
  
@@ -146,20 +142,30 @@
 <div class="skill-box">
  <div class="skill-info">
  <h2>VUE 3 js</h2>
- <h2>90%</h2>
+ <h2>95%</h2>
  </div>
  <div class="skill-outter-line">
- <div class="skill-inner-line" style="width: 90%"></div>
+ <div class="skill-inner-line" style="width: 95%"></div>
  </div>
 </div>
   
   <div class="skill-box">
  <div class="skill-info">
  <h2>Vite js, Pinia, Axios </h2>
- <h2>90%</h2>
+ <h2>95%</h2>
  </div>
  <div class="skill-outter-line">
- <div class="skill-inner-line" style="width: 90%"></div>
+ <div class="skill-inner-line" style="width: 95%"></div>
+ </div>
+</div>
+
+ <div class="skill-box">
+ <div class="skill-info">
+ <h2>PHP , MySQL </h2>
+ <h2>55%</h2>
+ </div>
+ <div class="skill-outter-line">
+ <div class="skill-inner-line" style="width: 55%"></div>
  </div>
 </div>
 

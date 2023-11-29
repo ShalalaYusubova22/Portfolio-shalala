@@ -12,8 +12,8 @@
    <i class="fa-solid fa-briefcase"></i>
    </div>
    <div class="ser-info">
-   <h4>Lorem Ipsum</h4>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor porro nobis esse?</p>
+   <h4>HTML,CSS,SCSS</h4>
+   <p>CSS syntax is pretty simple and includes selectors, prperties, values,declarations,etc.HTML is provides a means to create documents by denoting semantics for text</p>
    </div>
    </div>
 
@@ -22,8 +22,8 @@
    <i class="fa-solid fa-list-check"></i>
    </div>
    <div class="ser-info">
-   <h4>Lorem Ipsum</h4>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor porro nobis esse?</p>
+   <h4>JavaScript</h4>
+   <p>JvaScript is a acripting language that enables you to create dynamically updating content,control multimedia,animate images,and pretty much.</p>
    </div>
    </div>
 
@@ -32,8 +32,8 @@
    <i class="fa-solid fa-chart-bar"></i>
    </div>
    <div class="ser-info">
-   <h4>Lorem Ipsum</h4>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor porro nobis esse?</p>
+   <h4>Vite Js, Node Js</h4>
+   <p>Rollup-superset plugin interface shared between and build.Fully Tyoed APIs.Node.js is an open source server environment,allows you to run JavaScript on the server.</p>
    </div>
    </div>
 
@@ -42,8 +42,8 @@
    <i class="fa-solid fa-binoculars"></i>
    </div>
    <div class="ser-info">
-   <h4>Lorem Ipsum</h4>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor porro nobis esse?</p>
+   <h4>VUE 3 Js</h4>
+   <p>Builds on top of standart HTML,CSS and JavaScript with intutive API and world-class documentation.</p>
    </div>
    </div>
 
@@ -52,8 +52,8 @@
    <i class="fa-solid fa-sun"></i>
    </div>
    <div class="ser-info">
-   <h4>Lorem Ipsum</h4>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor porro nobis esse?</p>
+   <h4>BootStrap, REST API, Frameworks</h4>
+   <p>This tutorial is based on the task real of building up a web interface (pycattjify.netdevops.me) for the pycatcify REST API service deployed</p>
    </div>
    </div>
 
@@ -63,8 +63,8 @@
    <i class="fa-brands fa-slack"></i>
    </div>
    <div class="ser-info">
-   <h4>Lorem Ipsum</h4>
-   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor porro nobis esse?</p>
+   <h4>PHP, MySQL</h4>
+   <p>PHP supports working with the MySQL database.Special built-in functions for working with MySQL make it simple and efficientthis</p>
    </div>
    </div>
 
